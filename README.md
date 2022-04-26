@@ -127,7 +127,7 @@ cv2.destroyAllWindows()
 
 
 ### ii) Display the video
-![Output](23.jpg)
+![Output](22.jpg)
 </br>
 </br>
 
@@ -140,7 +140,7 @@ cv2.destroyAllWindows()
 
 
 ### iv) Rotate and display the video
-![Output](22.jpg)
+![Output](23.jpg)
 </br>
 </br>
 
